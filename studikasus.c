@@ -88,7 +88,7 @@ int main(){
                 hasil = temp / id2;
             }
             else{
-                hasil = id1 / id2;
+                hasil = (double) id1 / (double) id2;
             }
             printf("Hasil = %lf\n", hasil);
             temp = hasil;

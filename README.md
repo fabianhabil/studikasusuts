@@ -1,2 +1,2 @@
 # studikasusuts
-repo ini untuk upload file studi kasus uts algorithm dan PDM &amp; programming semester 1
+repo ini untuk upload file studi kasus uts algorithm &amp; programming  dan PDM semester 1
